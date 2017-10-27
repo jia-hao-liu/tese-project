@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507464717 source:f:\c\my codes\second.c
+	<stdio.h>
+
+1507465401 source:f:\c\my codes\tese project\first.c
+	<stdio.h>
+
+1507465383 source:f:\c\my codes\tese project\main.c
+	<stdio.h>
+	<stdlib.h>
+
